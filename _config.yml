@@ -127,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/darren-siow/"
 
 # Site Footer
 footer:
